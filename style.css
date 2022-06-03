@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html{
+    font-size: 62.5%;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+
+body{
+    text-align: center;
+    background-color: #000000;
+}
+
+
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "Avro", cursive;
+   
+}
+footer{
+    color: #f3dbed;
+    font-family: sans-serif;
+}
+
+.w {
+
+}
+
+.a { 
+
+}
+
+.s { 
+
+}
+
+.d{ 
+
+}
+
+.j { 
+
+}
+
+.k { 
+
+}
+
+.l { 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.set{
+    margin: 10% auto;
+}
+.game-over{
+    background-color: red;
+    opacity: 0.8;
+}
+
+.pressed{
+    box-shadow: 0 .2rem .4rem 0 #dbedf3;
+    opacity: 0.5;
+} 
+
+.red {
+    color:red
+}
+
+.drum {
+    outline: none;
+    font-size: 5rem;
+    border-radius: 1.5rem;
+    border: none;
+    display: inline-block;
+    width: 15rem;
+    height: 15rem;
+    text-align: center;
+    margin: .8rem;
+    
+
+}
+
+.active {
+    background-color: aquamarine;
+
+}
+p {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
